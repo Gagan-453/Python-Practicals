@@ -1,0 +1,5 @@
+f = open(r'C:\Users\ADINARAYANAREDDY\Documents\cs.txt', 'r')
+c = f.read()
+c = c.lower()
+print(c.count('biology'))
+f.close()

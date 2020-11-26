@@ -1,0 +1,4 @@
+1001    Shivaji    Delhi    14000.00
+1002    Harsha   Goa     30000.50
+1003    Advith    Sikkim   50000.75
+1004    Gagan    Tirupati  1000000.55
