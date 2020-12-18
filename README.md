@@ -1,1 +1,1 @@
-"# Python-Practicals" 
+Python practicals of many programs and modules
