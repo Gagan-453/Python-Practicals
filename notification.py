@@ -3,8 +3,8 @@ from win10toast import ToastNotifier
 
 def notification():
     toast = ToastNotifier()
-    title = "Notification"
-    msg = "Hi I am Gagan"
+    title = "Flash Chat"
+    msg = "Hi"
     icon = 'icon.ico'
     length=30
 
